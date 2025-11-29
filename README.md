@@ -73,20 +73,3 @@ O programa pode buscar sequências reais do banco de dados NCBI usando IDs de ac
 2. Escolha a opção 3
 3. O programa converterá T por U
 4. Opcionalmente, salve o resultado em arquivo
-
-## Conceitos de Python Utilizados
-
-- Funções
-- Manipulação de arquivos (escrita para salvar resultados)
-- Listas e dicionários
-- Laços (for e while)
-- Manipulação de strings
-- Estruturas condicionais (if/else)
-- Tratamento de erros (try/except)
-- Requisições HTTP com biblioteca `requests`
-- Integração com APIs públicas (NCBI)
-
-## Autor
-
-Desenvolvido para a disciplina de Bioinformática - Engenharia de Bioprocessos e Biotecnologia
-
